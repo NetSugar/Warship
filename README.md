@@ -1,0 +1,2 @@
+# Warship
+.net core libraries
